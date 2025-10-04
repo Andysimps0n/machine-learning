@@ -1,5 +1,10 @@
-ts_env/
-__pycache__/
-*.pyc
-*.pyd
-*.dll
+/ts_env/Include
+/ts_env/Lib
+/ts_env/Scripts
+/ts_env/share
+/my_env
+/forest
+/kaggle
+/.venv
+/data
+/web_project
